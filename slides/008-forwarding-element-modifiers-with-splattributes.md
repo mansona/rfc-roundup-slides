@@ -31,3 +31,4 @@ Splatributes for modifiers:
 <input type="checkbox" name="subscribe"
   id="subscribe" onclick="whateverFunction(🙈)">
 ```
+<!-- .element: class="fragment" -->
